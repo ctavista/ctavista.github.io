@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctavista.github.io/sitemap.html.gz
+Sitemap: https://ctavista.github.io/app/sitemap.html.gz
+Sitemap: https://ctavista.github.io/assets/sitemap.html.gz
+Sitemap: https://ctavista.github.io/css/sitemap.html.gz
+Sitemap: https://ctavista.github.io/includes/sitemap.html.gz
+Sitemap: https://ctavista.github.io/item/sitemap.html.gz
+Sitemap: https://ctavista.github.io/src/sitemap.html.gz
